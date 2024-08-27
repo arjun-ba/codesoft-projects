@@ -1,2 +1,2 @@
 # codesoft-projects
-these are codesoft internship projects
+these are my codesoft internship projects
